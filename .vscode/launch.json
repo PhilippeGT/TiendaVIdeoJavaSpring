@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApitiendavideoApplication<apitiendavideo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "tiendavideo.apitiendavideo.ApitiendavideoApplication",
+            "projectName": "apitiendavideo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
